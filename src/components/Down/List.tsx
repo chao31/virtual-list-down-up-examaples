@@ -51,6 +51,7 @@ const Index = () => {
         <VariableSizeList
           listData={listData}
           estimatedItemSize={90}
+          loaderAtBottom={<div />}
           pullDownCallback={requestTopData}
           hasMoreTopData={hasMoreTopData}
         >
