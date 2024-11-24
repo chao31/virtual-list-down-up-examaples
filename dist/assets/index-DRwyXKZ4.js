@@ -1,4 +1,4 @@
-import{j as e}from"./index-CZyiwQZf.js";import{C as t}from"./index-GpnCHGlS.js";const i=`
+import{j as e}from"./index-CvzAJk0u.js";import{C as t}from"./index-D18bViJg.js";const i=`
 
 // ref.current.delItem(index: number);
 
